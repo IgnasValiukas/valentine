@@ -4,7 +4,7 @@ let messages = [
   "👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀",
   "Dar vis bandai?",
   "Nu argi Cyklopui pasakysi No 👁️🟢"
-  "Gi žinai, kad čia nėra kito pasirinkimo ir dar vis spaudi😝"
+  //"Gi žinai, kad čia nėra kito pasirinkimo ir dar vis spaudi😝"
 ];
 
 let messageIndex = 0;
