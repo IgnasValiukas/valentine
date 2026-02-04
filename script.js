@@ -1,9 +1,10 @@
 let messages = [
-  "Are you sure? 😢",
-  "Please say yes 🥺",
-  "Don't break my heart 💔",
-  "One more chance 😭",
-  "YES is the only option 😍"
+  "Ar tu tikrai? 😶‍🌫️",
+  "Nejuokauk, neleisiu paspaust No 😆",
+  "👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀",
+  "Dar vis bandai?",
+  "Nu argi Cyklopui pasakysi No 👁️🟢"
+  "Gi žinai, kad čia nėra kito pasirinkimo ir dar vis spaudi😝"
 ];
 
 let messageIndex = 0;
