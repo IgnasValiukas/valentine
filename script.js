@@ -2,7 +2,7 @@ let messages = [
   "Ar tu tikrai? 😶‍🌫️",
   "Nejuokauk, neleisiu paspaust No 😆",
   "👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀",
-  "Dar vis bandai?",
+  "Dar vis bandai?🙄",
   "Nu argi Cyklopui pasakysi No 👁️🟢",
   "Gi žinai, kad čia nėra kito pasirinkimo ir dar vis spaudi😝"
 ];
