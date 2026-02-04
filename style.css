@@ -27,7 +27,6 @@ button {
 .yes-button {
   background: #F52761;
   color: white;
-  transition: 0.2s;
 }
 
 .no-button {
